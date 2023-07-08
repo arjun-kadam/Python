@@ -19,6 +19,16 @@
 
 [Match Case Statement](/Lessons/MatchCases.py)
 
+[Loops](/Lessons/Loops.py)
+
+[Break and Continue](/Lessons/BreakContinue.py)
+
+[Functions](/Lessons/FunctionsInPython.py)
+
+[Lists](/Lessons/ListsInPython.py)
+
+[List Methods](/Lessons/ListMethods.py)
+
 <hr>
 
 ## Exercises
