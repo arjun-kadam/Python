@@ -29,6 +29,14 @@
 
 [List Methods](/Lessons/ListMethods.py)
 
+[Tuples](/Lessons/TuplesInPython.py)
+
+[f-Strings ](/Lessons/f-Strings.py)
+
+[Doc Strings](/Lessons/docStrings.py)
+
+[PEP-8 (The Zen Of Python)](/Lessons/pep8.py)
+
 <hr>
 
 ## Exercises
