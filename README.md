@@ -35,7 +35,20 @@
 
 [Doc Strings](/Lessons/docStrings.py)
 
-[PEP-8 (The Zen Of Python)](/Lessons/pep8.py)
+[Recursion](/Lessons/Recursion.py)
+
+[Sets](/Lessons/SetsInPython.py)
+
+[Dictionaries](/Lessons/DictionariesInPython.py)
+
+[Else With Loop](/Lessons/ElseWithLoops.py)
+
+[Error Handling](/Lessons/ErrorHandling.py)
+
+[Finally Keyword](/Lessons/FinallyKeyword.py)
+
+[Custom Errors](/Lessons/CustomError.py)
+
 
 <hr>
 
@@ -44,5 +57,8 @@
 [Simple Calc](/Exercises/SimpleCalculatorEx1.py)
 
 [Greeting According To Time](/Exercises/Greetings.py)
+
+[Fibonacci Series](/Exercises/FiboSeries.py)
+
 
 
