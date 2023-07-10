@@ -35,6 +35,8 @@
 
 [Doc Strings](/Lessons/docStrings.py)
 
+[PEP 8 (The Zen Of Python)](/Lessons/docStrings.py)
+
 [Recursion](/Lessons/Recursion.py)
 
 [Sets](/Lessons/SetsInPython.py)
@@ -48,6 +50,18 @@
 [Finally Keyword](/Lessons/FinallyKeyword.py)
 
 [Custom Errors](/Lessons/CustomError.py)
+
+[Short Hand For If Else](/Lessons/ShortIfElse.py)
+
+[Enumerate Function](/Lessons/EnumerateFunction.py)
+
+[Virtual Environment](/Lessons/NoPracticalLessions/VirtualEnvrionment.md)
+
+[Requirements.txt](/Lessons/NoPracticalLessions/RequirementTXT.md)
+
+[How import Works ?](/Lessons/NoPracticalLessions/ImportingModules.md)
+
+[if ```"__name__"``` ==```"__main__"```](/Lessons/NoPracticalLessions/If__Name__and__main__.md)
 
 
 <hr>
