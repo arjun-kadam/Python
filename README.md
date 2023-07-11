@@ -63,6 +63,15 @@
 
 [if ```"__name__"``` ==```"__main__"```](/Lessons/NoPracticalLessions/If__Name__and__main__.md)
 
+[Local and Global Variables](/Lessons/LocalGlobal.py)
+
+[File Operations](/Lessons/FileOperations.py)
+
+[Lambda Functions](/Lessons/LambdaFunctions.py)
+
+[Is and ==](/Lessons/Equal_and_is.py)
+
+
 
 <hr>
 

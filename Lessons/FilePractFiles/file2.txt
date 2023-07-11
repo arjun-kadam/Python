@@ -1,0 +1,2 @@
+I am written using write method
+I Written Using Append Mode 
