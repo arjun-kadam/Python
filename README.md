@@ -69,7 +69,13 @@
 
 [Lambda Functions](/Lessons/LambdaFunctions.py)
 
-[Is and ==](/Lessons/Equal_and_is.py)
+[is and ==](/Lessons/Equal_and_is.py)
+
+[Classes and Objects](/Lessons/ClassesAndObjects.py)
+
+[Constructors](/Lessons//Constructor.py)
+
+[Decorators](/Lessons/Decorators.py)
 
 
 
