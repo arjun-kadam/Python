@@ -77,7 +77,21 @@
 
 [Decorators](/Lessons/Decorators.py)
 
+[Access Modifiers](/Lessons/AccessModifiers.py)
 
+[Class Methods](/Lessons/ClassMethods.py)
+
+[Inheritance](/Lessons/Inheritance.py)
+
+[Instance and Class Variables](/Lessons/InstanceAndClassVariables.py)
+
+[Static Methods](/Lessons/StaticMethods.py)
+
+[Class Method as a constructor](/Lessons/ClassMethodAsConstructor.py)
+
+[Method Overriding](/Lessons/MethodOverriding.py)
+
+[Super Keyword](/Lessons/SuperKeyword.py)
 
 
 <hr>
